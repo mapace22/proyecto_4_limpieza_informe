@@ -63,7 +63,7 @@ Se verificaron y eliminaron los duplicados que pudieran existir, tanto en filas 
 - Se creó un histograma para visualizar la distribución de los días transcurridos entre pedidos.
 - Se examinó la proporción de productos reordenados para comprender la lealtad del cliente.
 
-- Conclusiones
+### Conclusiones
 Este proyecto demostró un manejo sólido de las técnicas de limpieza y preparación de datos en Python.
 La información procesada reveló patrones de compra significativos, como la preferencia por las mañanas y los fines de semana para hacer pedidos.
 Además, el análisis de productos reordenados y la frecuencia de compra resalta la fidelidad de los clientes de Instacart.
